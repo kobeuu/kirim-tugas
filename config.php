@@ -27,7 +27,7 @@ return [
   |
   | misalnya 'X.1 Multimedia' atau 'XI.2 Pemasaran'
   */
-  'kelas' => 'X.1 Multimedia',
+  'kelas' => 'X.2 Multimedia',
 
   /*
   |--------------------------------------------------------------------------
@@ -36,7 +36,7 @@ return [
   |
   | format penulisan : 1 atau 'satu'
   */
-  'tugas_ke' => 'satu',
+  'tugas' => 'Materi Digital',
 
   /*
   |--------------------------------------------------------------------------
@@ -44,9 +44,9 @@ return [
   |--------------------------------------------------------------------------
   | format file yang diizinkan untuk dikirim
   |
-  | misalnya 'mp4','zip','rar','pdf','doc','jpg','png'
+  | misalnya 'mp4','zip','rar','pdf','docx','jpg','png'
   */
-  'file' => 'jpg',
+  'file' => 'pdf',
 
   /*
   |--------------------------------------------------------------------------
