@@ -1,9 +1,10 @@
 # Introduction
 **Kirim Tugas** -- adalah aplikasi yang dapat digunakan oleh guru/pendidik untuk mengumpulkan tugas (praktikum) siswa dengan lebih cepat dan rapi melalui jaringan LAN.
 
-file hasil tugas siswa yang dikirim akan disimpan dengan mengubah nama filenya sesuai isian siswa, ini bisa membantu guru/pendidik merapikan arsip haril karya siswa, dan untuk menghindari resiko kehilangan data karena lupa nama filenya.
+file hasil tugas siswa yang dikirim akan disimpan dengan mengubah nama filenya sesuai isian siswa, ini bisa membantu guru/pendidik merapikan arsip haril karya siswa, dan untuk menghindari resiko kehilangan data karena lupa nama dan lokasi file.
 
-meskipun dibuat sederhana, tanpa penggunaan database, semoga aplikasi ini bisa memenuhi fungsinya dan mengurangi penggunaan "flashdisk bervirus" dari siswa pada saat mengumpulkan tugas.
+meskipun dibuat sederhana, tanpa penggunaan database, semoga aplikasi ini bisa memenuhi fungsinya mengurangi penggunaan "flashdisk bervirus" dari siswa pada saat mengumpulkan tugas.
+
 
 ![alt text](https://preview.ibb.co/kKPZiQ/Screenshot_from_2017_07_01_15_30_01.png "Preview")
 
@@ -23,3 +24,6 @@ Setelah semua siswa selesai mengirim tugas, segera amankan (copas) file yang ter
 - [x] filter tipe file
 - [x] filter kirim ulang dan duplikasi file
 - [ ] Admin login
+
+### Image Credits
+- [Bootstrap](http://getbootstrap.com/)
