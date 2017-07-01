@@ -21,15 +21,15 @@ Setelah semua siswa selesai mengirim tugas, segera amankan (copas) file yang ter
 
 ### Fitur
 - [x] filter ukuran file
-- [x] filter tipe file
+- [x] filter tipe/ekstensi file
 - [x] filter kirim ulang dan duplikasi file
 - [ ] Admin login
 
 ### Spesial Thanks
 - [SMK Plus Al-Farhan](http://smkplusalfarhan.sch.id/)
-terima kasih sudah bersedia menggunakan aplikasi ini
+terima kasih sudah bersedia menggunakan aplikasi ini.
 - [Sekolah Koding](http://sekolahkoding.com/)
-terima kasih atas ilmunya yang melimpah, sangat begitu terinspirasi, semakin berkah buat adminnya.
+terima kasih atas ilmunya yang melimpah, sangat begitu terinspirasi, berkah terus buat adminnya (y).
 
 
 ### Credits
