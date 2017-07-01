@@ -27,7 +27,7 @@ return [
   |
   | misalnya 'X.1 Multimedia' atau 'XI.2 Pemasaran'
   */
-  'kelas' => 'X.2 Multimedia',
+  'kelas' => 'X.1 Multimedia',
 
   /*
   |--------------------------------------------------------------------------
@@ -46,7 +46,7 @@ return [
   |
   | misalnya 'mp4','zip','rar','pdf','docx','jpg','png'
   */
-  'file' => 'pdf',
+  'file' => 'zip',
 
   /*
   |--------------------------------------------------------------------------
@@ -60,7 +60,7 @@ return [
   |
   | ditulis dalam satuan Bytes, 1 MB = 1000000 Bytes
   */
-  'ukuran' => 10000000,
+  'ukuran' => 100000000,
 
   /*
   |--------------------------------------------------------------------------
