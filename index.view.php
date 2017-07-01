@@ -18,25 +18,31 @@
 
           <form class="form-horizontal" method="post" enctype="multipart/form-data">
             <div class="form-group">
-              <label for="inputEmail3" class="col-sm-2 control-label">Nama Lengkap</label>
+              <label for="nama" class="col-sm-2 control-label">Nama Lengkap</label>
               <div class="col-sm-10">
                 <input type="text" class="form-control" name="nama" autofocus="autofocus" placeholder="Nama Lengkap" required>
               </div>
             </div>
             <div class="form-group">
-              <label for="inputEmail3" class="col-sm-2 control-label">Kelas</label>
+              <label for="kelas" class="col-sm-2 control-label">Kelas</label>
               <div class="col-sm-10">
                 <input type="text" class="form-control" name="kelas" value="<?php echo $kelas ?>" readonly>
               </div>
             </div>
             <div class="form-group">
-              <label for="inputEmail3" class="col-sm-2 control-label">Mata Pelajaran</label>
+              <label for="mapel" class="col-sm-2 control-label">Mata Pelajaran</label>
               <div class="col-sm-10">
                 <input type="text" class="form-control" name="mapel" value="<?php echo $mapel ?>" readonly>
               </div>
             </div>
             <div class="form-group">
-              <label for="inputPassword3" class="col-sm-2 control-label">File Input</label>
+              <label for="tugas" class="col-sm-2 control-label">Tugas</label>
+              <div class="col-sm-10">
+                <input type="text" class="form-control" name="tugas" value="<?php echo $tugas ?>" readonly>
+              </div>
+            </div>
+            <div class="form-group">
+              <label for="file" class="col-sm-2 control-label">File Input</label>
               <div class="col-sm-10">
                 <input type="file" name="file">
               </div>
