@@ -18,8 +18,9 @@ meskipun dibuat sederhana, tanpa penggunaan database, semoga aplikasi ini bisa m
 ![alt text](https://image.ibb.co/idV73Q/Screenshot_from_2017_07_01_18_09_33.png "screenshoot")
 
 ## Penggunaan
-bisa dipasang di web server lokal, misalnya XAMPP
-akses dari client dengan ip server, misalnya 192.168.0.1/kirim-tugas
+bisa dipasang di web server lokal, seperti XAMPP
+
+akses dari client dengan ip server, contoh : 192.168.0.1/kirim-tugas
 
 Sebelum siswa mulai upload, pastikan sudah mengisi beberapa pengaturan awal di file ```config.php```, meliputi :
 - Nama mapel
