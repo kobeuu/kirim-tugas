@@ -18,6 +18,7 @@ $file = $config['file'];
 $ukuran_file = $config['ukuran'];
 $kirim_ulang = $config['kirim_ulang'];
 $flash = $config['flash'];
+$nama = '';
 
 // Function
 function flash($status, $message) {

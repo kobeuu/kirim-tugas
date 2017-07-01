@@ -20,7 +20,7 @@
             <div class="form-group">
               <label for="nama" class="col-sm-2 control-label">Nama Lengkap</label>
               <div class="col-sm-10">
-                <input type="text" class="form-control" name="nama" autofocus="autofocus" placeholder="Nama Lengkap" required>
+                <input type="text" class="form-control" name="nama" autofocus="autofocus" placeholder="Nama Lengkap" value="<?php echo $nama ?>" required>
               </div>
             </div>
             <div class="form-group">

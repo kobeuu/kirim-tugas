@@ -7,7 +7,7 @@ return [
    * ------------------------------------------------------------------------
    *
    *  file hasil upload akan disimpan sesuai pengaturan berikut
-   *  upload/{mapel}/{kelas}_{tugas_ke}_{nama siswa}
+   *  upload/{mapel}/{kelas}_{tugas}_{nama siswa}
    */
 
   /*
