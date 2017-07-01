@@ -26,8 +26,11 @@ Setelah semua siswa selesai mengirim tugas, segera amankan (copas) file yang ter
 - [ ] Admin login
 
 ### Spesial Thanks
+- [SMK Plus Al-Farhan](http://smkplusalfarhan.sch.id/)
+terima kasih sudah bersedia menggunakan aplikasi ini
 - [Sekolah Koding](http://sekolahkoding.com/)
-terima kasih atas ilmunya melimpah, semoga berkah
+terima kasih atas ilmunya yang melimpah, sangat begitu terinspirasi, semakin berkah buat adminnya.
+
 
 ### Credits
 - [Bootstrap](http://getbootstrap.com/)
