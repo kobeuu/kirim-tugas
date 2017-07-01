@@ -25,5 +25,9 @@ Setelah semua siswa selesai mengirim tugas, segera amankan (copas) file yang ter
 - [x] filter kirim ulang dan duplikasi file
 - [ ] Admin login
 
-### Image Credits
+### Spesial Thanks
+- [Sekolah Koding](http://sekolahkoding.com/)
+terima kasih atas ilmunya melimpah, semoga berkah
+
+### Credits
 - [Bootstrap](http://getbootstrap.com/)
