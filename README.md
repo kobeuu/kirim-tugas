@@ -5,19 +5,14 @@ file hasil tugas siswa yang dikirim akan disimpan dengan mengubah nama filenya s
 
 meskipun dibuat sederhana, tanpa penggunaan database, semoga aplikasi ini bisa memenuhi fungsinya mengurangi penggunaan "flashdisk bervirus" dari siswa pada saat mengumpulkan tugas.
 
-
+- Halaman Upload
 ![alt text](https://preview.ibb.co/gb2yA5/Screenshot_from_2017_07_01_18_18_56.png "screenshoot")
 
-Halaman Upload
-
+- File berhasil diganti nama
 ![alt text](https://preview.ibb.co/i7Vwxk/Screenshot_from_2017_07_01_18_16_39.png "screenshoot")
 
-File berhasil diganti nama
-
+- File sumber sebelum dikirim
 ![alt text](https://image.ibb.co/idV73Q/Screenshot_from_2017_07_01_18_09_33.png "screenshoot")
-
-File sumber sebelum dikirim
-
 
 ## Penggunaan
 Sebelum siswa mulai upload, pastikan sudah mengisi beberapa pengaturan awal di file ```config.php```, meliputi :
